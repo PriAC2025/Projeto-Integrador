@@ -1,7 +1,11 @@
 # Projeto-Integrador - Sistema de Gestão de Dados de Universidade
 
 ## Objetivo
-Este projeto objetiva desenvolver um sistema de gestão de dados de diferentes pessoas que interagem com uma grande universidade, pois sabemos que dados precisos e atualizados são essenciais para tomadas de decisões que visam atingir objetivos com mais eficiência e rapidez. Sendo assim, o sistema foi modelado em UML e prototipado para garantir que a experiência do usuário seja prática e intuitiva.
+Este projeto objetiva desenvolver um sistema de gestão de dados de diferentes pessoas que interagem com o software de uma grande universidade. Sabemos que dados precisos e atualizados são essenciais para tomadas de decisões que visam atingir objetivos com mais eficiência e rapidez. Sendo assim, o sistema foi modelado em UML e prototipado para garantir que a experiência do usuário seja prática e intuitiva, pois, segundo Nelson, 2004
+
+>"Uma boa documentação comunica ideias de forma eficaz. Quem lê o código precisa entender o que você deseja transmitir. Por isso, primeiro, é importante considerar para quem você está escrevendo a documentação... Outro aspecto de boa documentação é a atualização: a documentação não ajuda se não for atualizada. Ela deve ser atualizada ao mesmo tempo que as mudanças no código são feitas. Garanta que seja o mais fácil possível atualizar sua documentação"
+>
+>NELSON, Catherine. 2004
 
 ## Requisitos tecnológicos
 - Java, HTML, CSS, MIRO
@@ -18,8 +22,10 @@ Este projeto objetiva desenvolver um sistema de gestão de dados de diferentes p
 - Se algum campo dos formulários for preenchidos com erros ou em branco, o sistema deverá notificar o usuário com mensagem de "campo obrigatório" ou "erro"
 
 ## Diagrama de Caso de Uso
-![Diagrama de Caso de Uso](https://lucid.app/lucidchart/8f33be82-9072-4a7f-9da6-ad7640d5604e/edit?invitationId=inv_06ae33e0-dd34-4e57-9797-ec234b07f78e)
+[Diagrama de Caso de Uso](https://lucid.app/lucidchart/8f33be82-9072-4a7f-9da6-ad7640d5604e/edit?invitationId=inv_06ae33e0-dd34-4e57-9797-ec234b07f78e)
 
+## Diagrama de Classe
+[Diagrama de classe](https://lucid.app/lucidchart/27716fd9-ca29-4dbe-a594-6cb441a0b75a/edit?viewport_loc=-97%2C8%2C2208%2C1112%2CHWEp-vi-RSFO&invitationId=inv_79041cf7-876c-4048-a319-6cd81fd4d353)
 
 ## Descrição dos Protótipos de Interface de cada uso
 **Pré-condição:** Usuário autenticado no sistema
@@ -62,7 +68,7 @@ Este projeto objetiva desenvolver um sistema de gestão de dados de diferentes p
 *Campos do Formulário:*
 - Campo para inserir foto
 - Nome Completo do Aluno
-- Número de matricula
+- Número de matrícula
 - CPF
 - Data de Nascimento
 - Endereço Completo
@@ -124,7 +130,7 @@ Este projeto objetiva desenvolver um sistema de gestão de dados de diferentes p
 - Endereço Completo
 - Contatos
 - Espaço clicáveis com lista de opções para ramos de atividades
-- Nome completo do representante legal
+- Nome completo do(s) representante(s) legal(is)
 - CPF do Representante Legal
 - Botões para Upload de documentos
 - Espaço digitável para assinaturas digital ou eletrônica
@@ -135,10 +141,14 @@ Este projeto objetiva desenvolver um sistema de gestão de dados de diferentes p
 - Retornar ao menu principal
   
 ## Protótipos
-![Cadastro de Pessoa Física](https://miro.com/app/board/uXjVLDNtiZw=/?share_link_id=193656029880) 
-![Cadastro de Alunos](https://miro.com/app/board/uXjVLDNtiZw=/?share_link_id=193656029880) 
-![Cadastro de Pessoa Jurídica](https://miro.com/app/board/uXjVLDNtiZw=/?share_link_id=193656029880)
-![Cadastro de Professores](https://miro.com/app/board/uXjVLDNtiZw=/?share_link_id=193656029880) 
-![Cadastro de Fornecedores](https://miro.com/app/board/uXjVLDNtiZw=/?share_link_id=193656029880) 
+[Cadastro de Pessoa Física](https://miro.com/app/board/uXjVLDNtiZw=/?share_link_id=193656029880) 
+
+[Cadastro de Alunos](https://miro.com/app/board/uXjVLDNtiZw=/?share_link_id=193656029880) 
+
+[Cadastro de Pessoa Jurídica](https://miro.com/app/board/uXjVLDNtiZw=/?share_link_id=193656029880)
+
+[Cadastro de Professores](https://miro.com/app/board/uXjVLDNtiZw=/?share_link_id=193656029880) 
+
+[Cadastro de Fornecedores](https://miro.com/app/board/uXjVLDNtiZw=/?share_link_id=193656029880) 
 
 
